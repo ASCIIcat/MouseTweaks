@@ -1,7 +1,7 @@
 modLoader="javafml"
 loaderVersion="[25,)"
 issueTrackerURL="https://github.com/YaLTeR/MouseTweaks/issues"
-
+license="MIT"
 [[mods]]
 modId="mousetweaks"
 version="${file.jarVersion}"
